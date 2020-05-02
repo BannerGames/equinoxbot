@@ -22,4 +22,4 @@ fs.readdir("./comandos/", (err, files) => {
         client.commands.set(nomeComando, props);
     });
 })
-client.login("NDUzMjkzNjg1NjE0OTY4ODMy.DfmYxA.GKJPjRyq5F2H1HfDRmcnWgs4tw4");
+client.login("no");
