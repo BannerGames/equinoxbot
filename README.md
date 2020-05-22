@@ -1,2 +1,2 @@
 # equinoxbot
-** Currently, Equinox is a closed source project.**
+**Currently, Equinox is a closed source project.**
