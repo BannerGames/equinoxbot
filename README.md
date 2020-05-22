@@ -16,4 +16,7 @@
 - Punishment System ❌
  
  
- > **Do you have a suggestion? Create a issue with your suggestion!**
+ 
+ 
+ 
+ > **Do you have a suggestion? Create an issue with your suggestion!**
