@@ -14,9 +14,16 @@
 - Per-server Configuration ✅ 
 - User & Bot Info ✅
 - Punishment System ❌
+- Website Dashboard ❌
  
  
  
  
  
  > **Do you have a suggestion? Create an issue with your suggestion!**
+
+
+
+## 🔰 Credits 🔰
+@BannerGames - Creator and developer.
+@hSel3triK - Helping with some code.
