@@ -25,5 +25,5 @@
 
 
 ### 🔰 Credits 🔰
-@BannerGames - Creator and developer.
+@BannerGames - Creator and developer.\n
 @hSel3triK - Helping with some code.
