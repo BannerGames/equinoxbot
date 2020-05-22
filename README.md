@@ -12,6 +12,7 @@ Music:
    * Playlists ✏
    * Lyrics ✅
    * Radio ✏
+   
 Per-server Configuration ✅ 
 User & Bot Info ✅
 Punishment System ❌
