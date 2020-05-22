@@ -1,9 +1,9 @@
-## ⚠ **Currently, Equinox is a closed source project.** ⚠ 
+### ⚠ **Currently, Equinox is a closed source project.** ⚠ 
 > Currently, I don't have in mind letting Equinox be open source. 
 > However, I may use this project as a "guide" and as a check-list.
 
 
-## 📃Check-list 📃 
+### 📃Check-list 📃 
 
 - Music:
    * Play (pause, etc..) ✅ 
@@ -24,6 +24,6 @@
 
 
 
-## 🔰 Credits 🔰
+### 🔰 Credits 🔰
 @BannerGames - Creator and developer.
 @hSel3triK - Helping with some code.
